@@ -2,6 +2,7 @@ import { createUseStyles } from "react-jss";
 
 const useStyles = createUseStyles((theme) => ({
   root: {
+    display: "flex",
     border: "none",
     padding: "4px 8px",
     fontWeight: 700,
