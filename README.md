@@ -1,17 +1,13 @@
 ## Scripts
 
-### `format`
+~Copy the file
 
-Formate le code avec [Prettier](https://prettier.io/).
+~Git clone https://github.com/AlexandreMichelix/project-4seasons.git
 
-### `commit`
+~open file in your IDE
 
-Lance la [CLI git-cz](https://github.com/streamich/git-cz) pour écrire des messages de commit.
+~open terminal
 
-### `lint`
+~Type : npm install (for dependances)
 
-Lint le code avec [ESLint](https://eslint.org/).
-
-### `test`
-
-Lance la suite de tests unitaires avec [Jest](https://jestjs.io/).
+~Start the app : npm start
